@@ -1,60 +1,72 @@
-James Burton — Engineering Portfolio
+# James Burton — Engineering Portfolio
 
-Mechanical Engineering student at the University of Warwick, interested in aerospace, defence and high-performance engineering systems.
+Mechanical Engineering student at the University of Warwick with interests in aerospace, defence and high-performance engineering systems.
 
-This repository contains the source files for my engineering portfolio, documenting selected academic and personal projects across mechanical design, systems engineering, control and engineering analysis.
+This repository contains my engineering portfolio, documenting selected academic and personal projects across mechanical design, systems engineering, control and engineering analysis.
 
-Portfolio
+## Portfolio
 
-View my engineering portfolio
+**[View my engineering portfolio](https://YOURUSERNAME.github.io/)**
 
-The portfolio contains detailed case studies covering the engineering process from requirements and concept development through to analysis, CAD, simulation, validation and design refinement.
+The portfolio documents the engineering process behind each project, from requirements and concept development through to CAD, analysis, simulation, testing and validation.
 
-Featured Projects
-Aircraft Landing Gear
+## Featured Projects
 
-Mechanical design and structural analysis of an aircraft landing gear mechanism.
+### Aircraft Landing Gear
 
-Fusion 360 CAD and assembly design
-Material selection and mechanical analysis
-FEA and analytical validation
-Design iteration and factor-of-safety assessment
-Engineering drawings and design documentation
-Self-Balancing Robot
+Design and structural analysis of an aircraft landing gear retraction mechanism, developed as an independent engineering project.
 
-Development of a self-balancing robot using feedback control.
+- Designed a multi-component assembly in Fusion 360
+- Performed structural analysis under vertical, braking and crosswind loading
+- Applied material selection and mechanical design principles
+- Used FEA to evaluate stress and displacement
+- Validated simulation results against analytical calculations
+- Redesigned components to achieve a target factor of safety
 
-MATLAB / Simulink modelling
-PID controller design
-Arduino and IMU integration
-Experimental testing and validation
-Group systems-engineering project
-Formula Student Gearbox
+### Self-Balancing Robot
 
-Concept and preliminary design of a two-stage reduction gearbox for a Formula Student combustion car.
+Design and development of a self-balancing robot as part of a systems modelling and control project.
 
-Gear ratio and tooth-count selection
-ISO 6336 gear calculations
-Shaft and bearing sizing
-CAD assembly development
-GD&T and manufacturing considerations
-Technical Skills
+- Developed a dynamic model using MATLAB and Simulink
+- Designed and tuned a PID feedback controller
+- Integrated an Arduino and IMU for real-time sensing
+- Tested controller performance experimentally
+- Applied systems engineering principles throughout the design process
+- Worked as part of a multidisciplinary engineering team
 
-CAD: Fusion 360, SolidWorks, CATIA V5, Creo, Siemens NX
+### Formula Student Gearbox
 
-Analysis: ANSYS Mechanical, FEA, mechanics of materials, machine design
+Preliminary design of a two-stage reduction gearbox for a Formula Student combustion car.
 
-Modelling & Control: MATLAB, Simulink, PID control, dynamic systems
+- Defined gearbox performance requirements and design loads
+- Selected gear ratios, tooth counts and module
+- Performed gear calculations using ISO 6336 methodology
+- Designed and sized shafts and bearings
+- Developed the gearbox assembly in CAD
+- Applied GD&T, fits, tolerances and manufacturing considerations
 
-Programming: Python, NumPy, Matplotlib, Arduino
+## Technical Skills
 
-Engineering: GD&T, engineering drawings, material selection, design validation
+**CAD:** Fusion 360, SolidWorks, CATIA V5, Creo, Siemens NX
 
-About
+**Engineering Analysis:** ANSYS Mechanical, FEA, mechanics of materials, machine design, material selection
 
-I am currently studying Engineering at the University of Warwick, progressing towards Mechanical Engineering. I am particularly interested in mechanical systems, aerospace and defence engineering, while also exploring automotive, motorsport and energy applications.
+**Modelling & Control:** MATLAB, Simulink, dynamic systems, PID control
 
-Links
-Portfolio: https://YOURUSERNAME.github.io/
-LinkedIn: [Your LinkedIn]
-Email: [Your professional email]
+**Programming:** Python, NumPy, Matplotlib, Arduino
+
+**Engineering Design:** GD&T, engineering drawings, design validation, mechanical systems
+
+## About
+
+I am studying Engineering at the University of Warwick, progressing towards Mechanical Engineering.
+
+My primary interests are aerospace and defence, particularly mechanical systems, design and engineering analysis. I am also interested in automotive, motorsport and energy engineering.
+
+I am developing practical experience across CAD, FEA, systems modelling, control and mechanical design through university projects and independent engineering work.
+
+## Links
+
+- **Portfolio:** https://j-d-burton.github.io/
+- **LinkedIn:** www.linkedin.com/in/j-d-burton
+- **Email:** james.d.e.burton@warwick.ac.uk
