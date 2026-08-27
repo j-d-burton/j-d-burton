@@ -6,7 +6,7 @@ This repository contains my engineering portfolio, documenting selected academic
 
 ## Portfolio
 
-**[View my engineering portfolio](https://YOURUSERNAME.github.io/)**
+**[View my engineering portfolio](https://j-d-burton.github.io/)**
 
 The portfolio documents the engineering process behind each project, from requirements and concept development through to CAD, analysis, simulation, testing and validation.
 
