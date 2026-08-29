@@ -63,6 +63,5 @@ I am developing practical experience across CAD, FEA, systems modelling, control
 
 ## Links
 
-- **Portfolio:** https://j-d-burton.github.io/
 - **LinkedIn:** www.linkedin.com/in/j-d-burton
 - **Email:** james.d.e.burton@warwick.ac.uk
