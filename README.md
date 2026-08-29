@@ -47,15 +47,13 @@ Preliminary design of a two-stage reduction gearbox for a Formula Student combus
 
 ## Technical Skills
 
-**CAD:** Fusion 360, SolidWorks, CATIA V5, Creo, Siemens NX
+## Technical Skills
 
-**Engineering Analysis:** ANSYS Mechanical, FEA, mechanics of materials, machine design, material selection
-
-**Modelling & Control:** MATLAB, Simulink, dynamic systems, PID control
-
-**Programming:** Python, NumPy, Matplotlib, Arduino
-
-**Engineering Design:** GD&T, engineering drawings, design validation, mechanical systems
+- **CAD & Design:** Fusion 360, FreeCAD, GD&T, Engineering Drawings
+- **Engineering Analysis:** ANSYS Mechanical, FEA, Mechanics of Materials
+- **Machine Design:** Gear Design, Shaft & Bearing Design, ISO 6336
+- **Modelling & Control:** MATLAB, Simulink, Dynamic Systems, PID Control
+- **Programming:** Python, Arduino
 
 ## About
 
