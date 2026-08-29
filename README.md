@@ -47,8 +47,6 @@ Preliminary design of a two-stage reduction gearbox for a Formula Student combus
 
 ## Technical Skills
 
-## Technical Skills
-
 - **CAD & Design:** Fusion 360, FreeCAD, GD&T, Engineering Drawings
 - **Engineering Analysis:** ANSYS Mechanical, FEA, Mechanics of Materials
 - **Machine Design:** Gear Design, Shaft & Bearing Design, ISO 6336
