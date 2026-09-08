@@ -8,9 +8,7 @@ This repository contains my engineering portfolio, documenting selected academic
 
 **[View my engineering portfolio](https://github.com/j-d-burton/j-d-burton)**
 
-The portfolio documents the engineering process behind each project, from requirements and concept development through to CAD, analysis, simulation, testing and validation.
-
-## Featured Projects
+## Featured
 
 ### Aircraft Landing Gear
 
@@ -34,9 +32,9 @@ Design and development of a self-balancing robot as part of a systems modelling 
 - Applied systems engineering principles throughout the design process
 - Worked as part of a multidisciplinary engineering team
 
-### Formula Student Gearbox
+### Reduction Gearbox
 
-Preliminary design of a two-stage reduction gearbox for a Formula Student combustion car.
+Preliminary design of a two-stage reduction gearbox for a Honda CBR600RR Engine.
 
 - Defined gearbox performance requirements and design loads
 - Selected gear ratios, tooth counts and module
@@ -47,8 +45,8 @@ Preliminary design of a two-stage reduction gearbox for a Formula Student combus
 
 ## Technical Skills
 
-- **CAD & Design:** Fusion 360, FreeCAD, GD&T, Engineering Drawings
-- **Engineering Analysis:** ANSYS Mechanical, FEA, Mechanics of Materials
+- **CAD & Design:** Fusion 360, GD&T, Engineering Drawings
+- **Engineering Analysis:** ANSYS Granta, FEA, Mechanics of Materials
 - **Machine Design:** Gear Design, Shaft & Bearing Design, ISO 6336
 - **Modelling & Control:** MATLAB, Simulink, Dynamic Systems, PID Control
 - **Programming:** Python, Arduino
